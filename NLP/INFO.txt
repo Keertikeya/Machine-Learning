@@ -1,0 +1,6 @@
+Make sure the dataset that you have is named Reviews.tsv.
+Otherwise you can change the name while importing the dataset .
+For training your classifier, you'll need to have the data in the file in to columns (separated by a tab).
+First column will be the review itself, second column will contain a value 0 or 1.
+0 -> negative review
+1 -> positive review
